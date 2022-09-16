@@ -1,4 +1,5 @@
-# PDM - Programação de Dispositivos Móveis
+# Programação para Dispositivos Móveis
+## 5º Semestre do curso de *Análise e Desenvolvimento de Sistemas*
 # Exercício 2 - React - Props
 
 Crie uma aplicação ReactJS que exibe uma lista de três comentários feitos por usuários de uma rede social. Ela pode ser parecida com o que exibe a Figura 1.1.
