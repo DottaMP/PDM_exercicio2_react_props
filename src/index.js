@@ -43,12 +43,14 @@ export const App = () => {
                                 Diuretics paradis num copo é motivis de denguis.Pra lá , depois divoltis porris, paradis.
                                 Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Manduma pindureta quium 
                                 dia nois paga." 
-                            data='15/09/2022' hora=' 21:00'/>
+                            data='15/09/2022' 
+                            hora='23:52'/>
 
                             {/*foto={faker.image.avatar()} 
                             nome={faker.name.findName()}
                             comentario={faker.lorem.words(10)}
-                            data={faker.date.soon().toLocaleDateString()}*/}
+                            data={faker.date.soon().toLocaleDateString()} 
+                            hora={faker.date.soon().toLocaleTimeString()}*/}
 
                             {componenteFeedback}
 

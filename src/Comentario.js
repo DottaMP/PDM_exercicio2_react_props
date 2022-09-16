@@ -13,7 +13,7 @@ const Comentario = (props) => {
                         </div>
                         <div className="col-md-6 flex-grow-1 align-items-center m-3">
                             <p className="justify-content mx-auto text-center ">{props.comentario}</p>
-                            <p className="text-muted mt-2 blockquote-footer text-end">{props.data}{props.hora}</p>
+                            <p className="text-muted mt-2 blockquote-footer text-end">{props.data} {props.hora}</p>
                         </div>
                     </div>
                 </div> 
